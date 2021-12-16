@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545605292 source:c:\users\Петька\desktop\курсовая второй курс\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"symbolicc++.h"
+	<stdlib.h>
+
+1545605718 source:c:\users\Пётр\desktop\курсовая второй курс\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"symbolicc++.h"
+	<stdlib.h>
+
